@@ -1,4 +1,4 @@
-//create firebase app
+//create firebase app at https://firebase.google.com/
 //get boilerplate config by clicking
 //'Add Firebase to your web app'
 //from the home page on your app
@@ -14,8 +14,6 @@ btn.addEventListener('click', saveData, false);
 var btnTwo = document.getElementById('btnTwo');
 
 btnTwo.addEventListener('click', getData, false);
-
-
 
 
 //save data
